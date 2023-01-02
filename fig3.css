@@ -1,0 +1,30 @@
+.bod{
+    width: 100%;
+    border: 3px solid black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.biv{
+  width: 50%;  
+  height: 300px ;
+}
+.pp{
+    width: 50%;
+    height: 70px;
+    border: 4px solid lightgray;
+    margin-left: 25px; 
+    margin-bottom: 35px;
+    margin-right:5px ;
+    padding-right: 150px;
+}
+.right{
+    width: 50%;
+    height: 300px;
+    border: 5px solid lightgray;
+    margin-right: 25px;
+    margin-top: 45px;
+    margin-bottom: 45px;
+    margin-left:5px ;
+}
+

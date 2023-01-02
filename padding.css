@@ -1,0 +1,27 @@
+div{
+    box-sizing: border-box;
+}
+.container{
+ width: 100%;  
+ border: 2px solid black; 
+ display: flex;
+ align-items: center;
+ justify-content: space-between;
+}
+.tt{
+ display: flex;
+ margin: 24px;  
+}
+.middle{
+    width: 150px;
+   height: 150px; 
+   border: 2px solid black;
+   margin: 24px;
+
+}
+.lil{
+    width: 75px;
+    height: 75px;
+    border: 2px solid black;
+    margin: 24px;
+}
